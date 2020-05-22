@@ -1,1 +1,3 @@
 das müsste gitkraken erkennen und mir auf der Oberfäche anzeigen.
+
+umgekehrt geht es dann auch.
